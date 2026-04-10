@@ -106,25 +106,3 @@ Adapts and improves with user interaction.
 
 ---
 
-## ⚙️ How It Works
-
-```mermaid
-flowchart LR
-A[User Login] --> B[Daily Mood Input]
-B --> C[Data Storage]
-C --> D[AI Analysis]
-D --> E[Weekly Report]
-D --> F[Smart Suggestions]
-F --> G[Chatbot Interaction]
-🎯 Benefits
-Improves mental awareness
-Helps reduce stress
-Encourages consistency
-Easy to use
-Provides emotional support
-🚀 Future Scope
-AI-based mental health prediction
-Wearable device integration
-Doctor consultation feature
-Mobile application version
-Advanced emotional analysis
